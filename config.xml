@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <module>
+        <name>prestashop-migration-module</name>
+        <version>1.0.0</version>
+        <description>This module helps in migrating data from PrestaShop!</description>
+        <author>madload59</author>
+        <license>MIT</license>
+        <dependencies>
+            <dependency>SomeDependency</dependency>
+        </dependencies>
+    </module>
+</config>
